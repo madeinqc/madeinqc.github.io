@@ -1,5 +1,5 @@
 # Dependencies
-highlighter:      pygments
+highlighter:      kramdown
 gems:             [jekyll-paginate, jekyll-gist, pygments.rb]
 
 # Markdown
