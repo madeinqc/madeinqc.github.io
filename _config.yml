@@ -1,10 +1,10 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
+gems:             [jekyll-paginate, redcarpet, jekyll-gist, pygments.rb]
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Marc-Antoine Sauvé
