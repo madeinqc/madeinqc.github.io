@@ -23,4 +23,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/madeinqc/madeinqc.github.io
+  repo:           https://github.com/madeinqc/
+
+bitbucket:
+  repo:           https://bitbucket.org/madeinqc/
