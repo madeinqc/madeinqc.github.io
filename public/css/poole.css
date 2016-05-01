@@ -147,6 +147,11 @@ abbr[title] {
   border-bottom: 1px dotted #e5e5e5;
 }
 
+figure {
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
 /* Code */
 code,
 pre {
