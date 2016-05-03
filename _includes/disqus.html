@@ -8,8 +8,8 @@
 	* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
 	*/
 	var disqus_config = function () {
-		this.page.url = "{{ page.url}}";
-		this.page.identifier = "{{page.date}}-{{ page.title | downcase}}";
+    this.page.url = "{{ site.url }}{{ page.url}}";
+    this.page.identifier = "{{page.date | date_to_string | slugify}}-{{ page.title | downcase | slugify}}";
 	};
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
