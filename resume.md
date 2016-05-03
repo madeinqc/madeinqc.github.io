@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
+title: Resume
 ---
+
+<a class="sidebar-nav-item" href="{{ site.url }}/files/marc-antoine.sauve.pdf" download><i class="fa fa-download" aria-hidden="true"> Download my resume</i></a>
 
 ## Languages
 * French
