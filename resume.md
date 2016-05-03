@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-<a class="sidebar-nav-item" href="{{ site.url }}/files/marc-antoine.sauve.pdf" download><i class="fa fa-download" aria-hidden="true"> Download my resume</i></a>
+<a class="sidebar-nav-item" href="{{ site.url }}/files/marc-antoine.sauve.pdf" download><i class="fa fa-download" aria-hidden="true"></i> Download my resume</a>
 
 ## Languages
 * French
