@@ -13,7 +13,7 @@ title: About
 <span class="metadata">01/2016 - Present &mdash; Montreal, Qc, CA</span>
 
 * Worked with an agile team as the sole mobile developer
-* Developed an MVP application on Android and iOS for vehicule tracking
+* Developed an MVP application on Android and iOS for vehicle tracking
 
 #### Technologies
 * Java (Android Studio)
