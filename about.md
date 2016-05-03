@@ -139,7 +139,7 @@ title: About
 
 * Diploma of Collegial Studies in Information Systems
 
-### [Collège Édouard-Montpetit](http://www.cegepmontpetit.ca/)
+### [Jacques-Rousseau High School](http://www.csmv.qc.ca/secondaire/nos-ecoles/jacques-rousseau/)
 <span class="metadata">09/2010 - 05/2013 &mdash; Longueuil, Qc, CA</span>
 
 * [International Baccalaureate](http://www.ibo.org/) (IB) [Middle Years Programme](http://www.ibo.org/programmes/middle-years-programme/) (MYP)
