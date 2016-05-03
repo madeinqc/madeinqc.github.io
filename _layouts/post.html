@@ -4,7 +4,7 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="metadata">{{ page.date | date_to_string }} &mdash; <a href="{{ page.url }}#disqus_thread"></a></span>
+  <span class="metadata">{{ page.date | date_to_string }} &mdash; <a href="{{ site.url }}{{ page.url}}#disqus_thread"></a></span>
   {{ content }}
   {% include disqus.html %}
 </div>
