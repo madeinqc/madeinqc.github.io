@@ -16,9 +16,13 @@ comments: false
     <span class="metadata">{{ post.date | date_to_string }}</span>
 
     {{ post.content }}
+
+    <a href="{{ site.url }}{{ post.url}}#disqus_thread"></a>
+    <hr>
   </div>
   {% endfor %}
 </div>
+{% include disqus-count.html %}
 
 <div class="pagination">
   {% if paginator.next_page %}
