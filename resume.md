@@ -10,6 +10,8 @@ comments: false
 * French
 * English
 
+---
+
 ## Work Experience
 
 ### Mobile developer at [Gaspard Media](https://gaspardmedia.com)
@@ -111,6 +113,8 @@ comments: false
 * [Tagtélé Android](http://play.google.com/store/apps/details?id=ca.globalia.tagtele&hl=en)
 * [Tagtélé iOS](http://itunes.apple.com/ca/app/tagtele/id656849641?mt=8)
 
+---
+
 ## Volunteer Experience
 
 ### VP Executive and VP Competition at [AGEEI - Student association](http://ageei.uqam.ca/)
@@ -119,6 +123,8 @@ comments: false
 * Assisted the President of the student association with his tasks
 * Organized and taught at weekly training sessions to prepare teams for various computer science competitions
 * Hosted over 5 universities for the Montreal IEEE Xtreme event at UQÀM
+
+---
 
 ## Competitions
 
@@ -129,6 +135,8 @@ comments: false
 ### [IEEE Xtreme](http://www.ieee.org/membership_services/membership/students/competitions/xtreme/index.html)
 * Competed in the 2015 edition &mdash; Finished top 10 in Canada and top 10% worldwide
 * Competed in the 2014 edition
+
+---
 
 ## Academic Qualifications
 
