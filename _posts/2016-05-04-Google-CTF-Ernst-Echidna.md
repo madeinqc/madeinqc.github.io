@@ -56,7 +56,7 @@ Enter your hash in the CrackStation and you should obtain your username. This is
 
 We are logged in, and our cookie contain our username. Let's try the admin page again.
 
-![Admin page with restricted message](/public/img/2016/05/04/Google-CTF/Ernst-Echidna/admin-restricted.png)
+![Admin page with restricted message](/public/img/2016/05/04/Google-CTF-Ernst-Echidna/admin-restricted.png)
 
 We need to become an admin. Since the token is only the md5 hash of the username, we can try to hash `admin` and set our cookie with the new hash. Let's try it.
 
