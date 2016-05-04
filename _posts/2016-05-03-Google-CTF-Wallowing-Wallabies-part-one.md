@@ -6,7 +6,12 @@ comments: true
 
 This post is about the [Wallowing Wallabies](https://wallowing-wallabies.ctfcompetition.com/) web challenge of the [Google CTF](https://capturetheflag.withgoogle.com).
 
+<div class="danger" markdown="1">
+  **Warning:** This post contains spoilers.
+</div>
+
 On the website, we are greeted by this beautiful page:
+
 ![Wallowing Wallabies home page](/public/img/2016/05/03/Google-CTF-Wallowing-Wallabies-part-one/homepage.png)
 
 As interesting as this page is, I quickly moved to the `sitemap.xml` (none were found) and to the `robots.txt`:
