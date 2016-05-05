@@ -20,6 +20,7 @@ tagline:          'Mobile developer'
 description:      ''
 url:              http://masauve.com
 baseurl:          /
+excerpt_separator: <!--more-->
 
 author:
   name:           'Marc-Antoine Sauvé'

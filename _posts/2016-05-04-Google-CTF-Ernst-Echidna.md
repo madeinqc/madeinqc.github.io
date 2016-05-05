@@ -20,6 +20,8 @@ Let's start by loading the website.
 
 A good practice (especially on web CTF) is to follow the trails that are given, and then explore around them. Let's follow the **robots.txt** trail.
 
+<!--more-->
+
 ```
 Disallow: /admin
 ```

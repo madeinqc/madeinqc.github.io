@@ -27,7 +27,11 @@ comments: false
       </span>
 
 
-      {{ post.content }}
+      {{ post.excerpt }}
+
+      <p>
+        <a href="{{ post.url }}">Read more</a>
+      </p>
 
       <a href="{{ site.url }}{{ post.url}}#disqus_thread"></a>
       <hr>

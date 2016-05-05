@@ -16,6 +16,8 @@ On the website, we are greeted by this beautiful page:
 
 As interesting as this page is, I quickly moved to the `sitemap.xml` (none were found) and to the `robots.txt`:
 
+<!--more-->
+
 ```
 User-agent: *
 Disallow: /deep-blue-sea/
