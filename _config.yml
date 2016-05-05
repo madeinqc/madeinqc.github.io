@@ -5,6 +5,7 @@ gems:
   - jekyll-gist
   - pygments.rb
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Markdown
 kramdown:
