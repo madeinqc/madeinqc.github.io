@@ -2,6 +2,8 @@
 layout: post
 title: Google CTF - Wallowing Wallabies - Part One
 comments: true
+description: This post will guide you through the solving of the Wallowing Wallabies web challenge of the Google CTF
+image: /public/img/2016/05/03/Google-CTF-Wallowing-Wallabies-part-one/homepage.png
 ---
 
 This post is about the [Wallowing Wallabies](https://wallowing-wallabies.ctfcompetition.com/) web challenge of the [Google CTF](https://capturetheflag.withgoogle.com).

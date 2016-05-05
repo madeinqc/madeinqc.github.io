@@ -2,6 +2,8 @@
 layout: post
 title: Google CTF - Ernst Echidna
 comments: true
+description: This post will guide you through the solving of the Ernst Echidna web challenge of the Google CTF
+image: /public/img/2016/05/04/Google-CTF-Ernst-Echidna/homepage.png
 ---
 
 Let's talk about the [Ernst Echidna](https://ernst-echidna.ctfcompetition.com/) web challenge of the [Google CTF](https://capturetheflag.withgoogle.com).
