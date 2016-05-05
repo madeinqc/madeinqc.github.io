@@ -15,6 +15,9 @@ _site
 *.vi
 *~
 
+# Ruby gems
+.bundle
+
 # OS or Editor folders
 .DS_Store
 ._*
