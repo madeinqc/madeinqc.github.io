@@ -20,6 +20,7 @@ tagline:          'Mobile developer'
 description:      ''
 url:              http://masauve.com
 baseurl:          /
+email:            marc.antoine.sauve+website@gmail.com
 
 author:
   name:           'Marc-Antoine Sauvé'
