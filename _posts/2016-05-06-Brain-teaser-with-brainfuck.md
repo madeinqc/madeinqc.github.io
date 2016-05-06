@@ -8,6 +8,8 @@ Do you know brainfuck? Is your logic good? It's time to find out! I propose you 
 
 If you know brainfuck, you can <a href="{{ site.baseurl }}{{ page.url }}#challenge">go directly to the challenge</a>. Else, bare with me, it's simple... or is it?
 
+<!--more-->
+
 Brainfuck is an isoteric language meant to be minimalistic with a very small compiler (the smallest is below 100 bytes). It's so minimalistic that it only contains 8 commands.
 
 The language manipulate the data in an array of at least 30,000 byte cells initialized to zero. When you reach the limit of the array, the result is undefined, but most of the implementation loop around. You can manipulate the array with the 8 following instructions:
