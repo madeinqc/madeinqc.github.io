@@ -60,6 +60,6 @@ I suggest you to refer at the [wiki](https://en.wikipedia.org/wiki/Brainfuck) fo
 You need to make a program that will take a single char as input and if it is between `0` and `3` inclusively, print the number in lowercase letter.
 If you receive `0`, print `zero`, if `1`, print `one`, etc.
 
-Leave your answer in comments (commented, compact or both). Obviously, don't read comments if you haven't done it yet, you migth get spoiled.
+Leave your answer in comments (commented, compact or both). Obviously, don't read comments if you haven't done it yet.
 
 Game on!
