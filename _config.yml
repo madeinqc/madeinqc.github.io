@@ -1,10 +1,11 @@
 # Dependencies
-highlighter:      rouge
+highlighter:        rouge
 gems:
   - jekyll-paginate
   - jekyll-gist
   - pygments.rb
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Markdown
 kramdown:
@@ -12,30 +13,45 @@ kramdown:
   syntax_highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink:          pretty
 
 # Setup
-title:            Marc-&#8203;Antoine Sauvé
-tagline:          'Mobile developer'
-description:      ''
-url:              http://masauve.com
-baseurl:          /
+title:              Marc-Antoine Sauvé
+sidebar_title:      Marc-&#8203;Antoine Sauvé
+tagline:            'Mobile developer'
+description:        'Technical blog about mobile (Android and iOS), web and security.'
+url:                http://masauve.com
+baseurl:            
 email:            marc.antoine.sauve+website@gmail.com
+excerpt_separator:  <!--more-->
+logo:               /public/img/logo.jpg
 
 author:
-  name:           'Marc-Antoine Sauvé'
-  url:            https://twitter.com/masauve_
+  twitter:          masauve_
+  name:             'Marc-Antoine Sauvé'
+  url:              https://twitter.com/masauve_
 
-paginate:         5
+twitter:
+  username:         masauve_
+
+facebook:
+  app_id:           267373770272004
+
+social:
+  links:
+    - https://www.facebook.com/marc.antoine.sauve
+    - https://plus.google.com/+MarcAntoineSauv%C3%A9/posts
+    - https://twitter.com/masauve_
+
+paginate:           5
 
 # Google services
-google_analytics: UA-73405853-3
+google_analytics:   UA-73405853-3
 
 # Custom vars
-version:          2.1.0
 
 github:
-  repo:           https://github.com/madeinqc/
+  repo:             https://github.com/madeinqc/
 
 bitbucket:
-  repo:           https://bitbucket.org/madeinqc/
+  repo:             https://bitbucket.org/madeinqc/

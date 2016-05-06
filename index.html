@@ -2,9 +2,11 @@
 layout: default
 title: Home
 comments: false
+image: /public/img/logo.jpg
 ---
 
 <div class="posts">
+  {% include disqus-count.html %} 
   {% for post in paginator.posts %}
     {% assign next_i = forloop.index0 | plus: 1 %}
     {% assign next_post = paginator.posts[next_i] %}
@@ -17,7 +19,9 @@ comments: false
         </a>
       </h1>
 
-      <span class="metadata">{{ post.date | date_to_string }}
+      <span class="metadata">{{ post.date | date_to_string }} &mdash; 
+        <a href="{{ site.url }}{{ post.url}}#disqus_thread"></a>
+        &mdash;
         {% unless forloop.last %}
           <a href="#{{ next_post.id | slugify }}"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
         {% endunless %}
@@ -27,14 +31,16 @@ comments: false
       </span>
 
 
-      {{ post.content }}
+      {{ post.excerpt }}
 
-      <a href="{{ site.url }}{{ post.url}}#disqus_thread"></a>
+      <p>
+        <a href="{{ post.url }}">Read more</a>
+      </p>
+
       <hr>
     </div>
   {% endfor %}
 </div>
-{% include disqus-count.html %}
 
 <div class="pagination">
   {% if paginator.next_page %}

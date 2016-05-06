@@ -2,6 +2,8 @@
 layout: post
 title: Google CTF - Ernst Echidna
 comments: true
+description: This post will guide you through the solving of the Ernst Echidna web challenge of the Google CTF
+image: /public/img/2016/05/04/Google-CTF-Ernst-Echidna/homepage.png
 ---
 
 Let's talk about the [Ernst Echidna](https://ernst-echidna.ctfcompetition.com/) web challenge of the [Google CTF](https://capturetheflag.withgoogle.com).
@@ -19,6 +21,8 @@ Let's start by loading the website.
 ![Ernst Echidna homepage](/public/img/2016/05/04/Google-CTF-Ernst-Echidna/homepage.png)
 
 A good practice (especially on web CTF) is to follow the trails that are given, and then explore around them. Let's follow the **robots.txt** trail.
+
+<!--more-->
 
 ```
 Disallow: /admin
