@@ -21,7 +21,7 @@ sidebar_title:      Marc-&#8203;Antoine Sauvé
 tagline:            'Mobile developer'
 description:        'Technical blog about mobile (Android and iOS), web and security.'
 url:                http://masauve.com
-baseurl:            /
+baseurl:            
 excerpt_separator:  <!--more-->
 logo:               /public/img/logo.jpg
 
