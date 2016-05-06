@@ -2,11 +2,15 @@
 layout: post
 title: Brain teaser with Brainfuck
 comments: true
+description: Do you know brainfuck? Is your logic good? It's time to find out! I propose you a small challenge in this esoteric language.
+image: /public/img/2016/05/06/Brain-teaser-with-Brainfuck/brainfuck.png
 ---
 
 Do you know brainfuck? Is your logic good? It's time to find out! I propose you a small challenge in this esoteric language. Why brainfuck? Because it's easy to learn and it will test your logical thinking.
 
 If you know brainfuck, you can <a href="{{ site.baseurl }}{{ page.url }}#challenge">go directly to the challenge</a>. Else, bear with me, it's simple... or is it?
+
+![Brainfuck code](/public/img/2016/05/06/Brain-teaser-with-Brainfuck/brainfuck.png)
 
 <!--more-->
 
