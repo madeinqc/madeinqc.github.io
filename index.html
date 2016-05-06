@@ -20,7 +20,7 @@ image: /public/img/logo.jpg
       </h1>
 
       <span class="metadata">{{ post.date | date_to_string }} &mdash; 
-        <a href="{{ site.url }}{{ post.url}}#disqus_thread"></a>
+        <a href="{{ site.url }}{{ post.url}}#disqus_thread">0 Comments</a>
         &mdash;
         {% unless forloop.last %}
           <a href="#{{ next_post.id | slugify }}"><i class="fa fa-arrow-down" aria-hidden="true"></i></a>
