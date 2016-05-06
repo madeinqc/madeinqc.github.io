@@ -61,6 +61,8 @@ Refer to the [Wikipedia article](https://en.wikipedia.org/wiki/Brainfuck) for mo
   Here come the challenge!
 </strong>
 
+I suggest you to use this [JavaScript Brainfuck Interpreter](http://www.iamcal.com/misc/bf_debug/) as it also come with a debugger.
+
 You need to make a program that will take a single char as input and if it is between `0` and `3` inclusively, print the number in lowercase letter.
 If you receive `0`, print `zero`, if `1`, print `one`, etc. All other entries should be ignored and print nothing.
 
