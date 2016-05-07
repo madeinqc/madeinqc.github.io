@@ -6,13 +6,13 @@ comments: false
 
 <a class="sidebar-nav-item" href="{{ site.url }}/files/marc-antoine.sauve.pdf" download><i class="fa fa-download" aria-hidden="true"></i> Download my resume</a>
 
-## Languages
+## <i class="fa fa-language" aria-hidden="true"></i> Languages
 * French
 * English
 
 ---
 
-## Work Experience
+## <i class="fa fa-briefcase" aria-hidden="true"></i> Work Experience
 
 ### Mobile developer at [Gaspard Media](https://gaspardmedia.com)
 <span class="metadata">01/2016 - Present &mdash; Montreal, Qc, CA</span>
@@ -21,11 +21,13 @@ comments: false
 * Developed an MVP application on Android and iOS for vehicle tracking
 
 #### Technologies
-* Java (Android Studio)
-* iOS Swift (xCode)
+* Java Android (Android Studio)
+* Swift iOS (xCode)
 
 #### Projects
 * Mobile app Gaspard Media 
+
+---
 
 ### Backend developer at [Lookupia](https://lookupia.com)
 <span class="metadata">09/2015 - 01/2016 &mdash; Montreal, Qc, CA</span>
@@ -43,6 +45,8 @@ comments: false
 #### Projects
 * Tile server for [Lookupia's website](https://lookupia.com)
 
+---
+
 ### Mobile developer at [Samsung Research America](https://www.sra.samsung.com)
 <span class="metadata">06/2015 - 09/2015 &mdash; Mountain View, CA, USA</span>
 
@@ -54,6 +58,8 @@ comments: false
 #### Technologies
 * Java Android (Android Studio)
 * Python
+
+---
 
 ### Mobile and web developer at [Expertus Technologies Inc.](http://www.expertus.ca/)
 <span class="metadata">08/2014 - 05/2015 &mdash; Montreal, Qc, CA</span>
@@ -70,6 +76,8 @@ comments: false
 #### Projects
 * [Expertus mobile](http://www.expertus.ca/solutions/expertus-mobile)
 * [Expertus solution for treasurers](http://www.expertus.ca/solutions/expertus-solution-for-treasurers)
+
+---
 
 ### Mobile and web developer &amp; co-founder at [APPCOM](https://appcom.ca)
 <span class="metadata">09/2011 - 07/2014 &mdash; Longueuil, Qc, CA</span>
@@ -100,6 +108,8 @@ comments: false
 * [DiveFree Mobile](http://appcom.ca/en/portfolio/divefree)
 * [iMotoneige Mobile](http://appcom.ca/en/portfolio/imotoneige-2012)
 
+---
+
 ### Mobile developer (internship) at [Globalia Inc.](https://www.globalia.ca/en/)
 <span class="metadata">04/2013 - 07/2013 &mdash; Saint-Lambert, Qc, CA</span>
 
@@ -115,7 +125,7 @@ comments: false
 
 ---
 
-## Volunteer Experience
+## <i class="fa fa-users" aria-hidden="true"></i> Volunteer Experience
 
 ### VP Executive and VP Competition at [AGEEI - Student association](http://ageei.uqam.ca/)
 <span class="metadata">05/2015 - 05/2016 &mdash; Montreal, Qc, CA</span>
@@ -126,7 +136,7 @@ comments: false
 
 ---
 
-## Competitions
+## <i class="fa fa-code" aria-hidden="true"></i> Competitions
 
 ### [CS Games](http://csgames.org/corpo/)
 * Competed in the 2016 edition
@@ -138,7 +148,7 @@ comments: false
 
 ---
 
-## Academic Qualifications
+## <i class="fa fa-university" aria-hidden="true"></i> Academic Qualifications
 
 ### [UQÀM](http://uqam.ca/)
 <span class="metadata">09/2014 - 12/2017 &mdash; Montreal, Qc, CA</span>
