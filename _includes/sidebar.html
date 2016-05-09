@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <img class="circle" id="about" src="{{ site.baseurl }}/public/img/logo.jpg" height="200px" width="200px" />
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{% if site.baseurl == "" or site.baseurl == nil %}/{% else %}{{ site.baseurl }}{% endif %}">
           {{ site.sidebar_title }}
         </a>
       </h1>
