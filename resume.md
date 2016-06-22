@@ -79,7 +79,7 @@ comments: false
 
 ---
 
-### Mobile and web developer &amp; co-founder at [APPCOM](https://appcom.ca)
+### Mobile and web developer &amp; co-founder at [APPCOM](http://appcom.ca)
 <span class="metadata">09/2011 - 07/2014 &mdash; Longueuil, Qc, CA</span>
 
 * Supervised and developed several projects delivered to over 8 clients
