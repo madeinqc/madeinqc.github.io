@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git: What is subtree?
+title: Git - What is subtree?
 comments: true
 description: What is git subtree command, what can it do and how to use it. How to manage subfolder on other branches.
 image: /public/img/2016/09/04/git-what-is-subtree/subtree.png
