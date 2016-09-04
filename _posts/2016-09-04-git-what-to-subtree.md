@@ -228,7 +228,7 @@ This is all the time I have for this post, so enjoy these useful links to learn 
 
 ## Useful links
 
-[6.7 Git Tools - Subtree Merging](https://git-scm.com/book/en/v1/Git-Tools-Subtree-Merging)
-[About Git subtree merges - Github](https://help.github.com/articles/about-git-subtree-merges/)
-[Mastering Git subtrees](https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec#.dywbc81ip)
-[Alternative - Git subrepo](https://github.com/ingydotnet/git-subrepo#readme)
+- [6.7 Git Tools - Subtree Merging](https://git-scm.com/book/en/v1/Git-Tools-Subtree-Merging)
+- [About Git subtree merges - Github](https://help.github.com/articles/about-git-subtree-merges/)
+- [Mastering Git subtrees](https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec#.dywbc81ip)
+- [Alternative - Git subrepo](https://github.com/ingydotnet/git-subrepo#readme)
