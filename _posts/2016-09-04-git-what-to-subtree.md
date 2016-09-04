@@ -25,6 +25,8 @@ This is not going to work out for me as my file setup is like this:
 
 I was facing a problem: I want the content of my `plugin` folder to be pushed on a `master` branch.
 
+<!--more-->
+
 After searching for a bit, I discovered... the git `subtree`!
 
 *OK I know it's not a big surprise, it is in the title, but bear with me.*
