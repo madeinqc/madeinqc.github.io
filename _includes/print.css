@@ -1,0 +1,41 @@
+/* No print */
+.sidebar-about div {
+  display: none;
+}
+
+@media print {
+  .sidebar {
+    background-color: rgba(255,255,255,.5) !important;
+  }
+
+  .sidebar .sidebar-about h1 a, .sidebar .sidebar-about div {
+    color: #202020;
+    display: initial;
+  }
+  
+  .sidebar .sidebar-about div a {
+    color: #268bd2;
+  }
+
+  .content {
+    padding-top: 0 !important;
+  }
+
+  .sidebar img, .sidebar p, .sidebar-nav, div.page > h4, div.page > h4 + ul, .page-title, .page-title ~ hr, a[download] {
+    display: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .page h2, .page h3 {
+    margin-top: 0.5rem;
+  }
+  
+  .page ul {
+    margin-top: -0.5rem;
+  }
+
+  .page ul, .page p {
+    margin-bottom: 0.5rem;
+  }
+}

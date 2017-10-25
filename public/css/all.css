@@ -1,6 +1,7 @@
 ---
 ---
 
+{% include print.css %}
 {% include poole.css %}
 {% include hyde.css %}
 {% include syntax.css %}
