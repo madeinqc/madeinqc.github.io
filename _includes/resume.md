@@ -120,8 +120,13 @@ PS: We are [hiring](https://www.hopper.com/corp/jobs.html)
 
 ## <i class="fa fa-code" aria-hidden="true"></i> Competitions
 
+### [CSAW](https://ctf.csaw.io/)
+* Security competition
+* Competed in the 2016 finale at NYU
+
 ### [CS Games](http://csgames.org/corpo/)
-* Competed in the 2015 and 2016 edition
+* Competed in the 2015, 2016 and 2017 edition
+* Finished in first place in the Mobile Competition of the 2017 edition
 
 ### [IEEE Xtreme](http://www.ieee.org/membership_services/membership/students/competitions/xtreme/index.html)
 * Competed in the 2014, 2015 and 2016 edition
