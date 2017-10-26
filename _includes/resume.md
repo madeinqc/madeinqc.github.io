@@ -1,6 +1,6 @@
 ## <i class="fa fa-briefcase" aria-hidden="true"></i> Work Experience
 
-### Mobile and backend developer at [Hopper](https://hopper.com)
+### Mobile and backend developer at [<img class="inline" src="http://www.hopper.com/static2/w2/images/logo.c07e5d0c.png">](https://hopper.com)
 <span class="metadata">05/2016 - Present &mdash; Montreal, Qc, CA</span>
 
 * Development and maintenance of the Hopper app

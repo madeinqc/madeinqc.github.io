@@ -1,0 +1,7 @@
+img.inline {
+  display: initial;
+  margin-bottom: initial;
+  vertical-align: middle;
+  -webkit-filter: invert(76%);
+  filter: invert(76%);
+}
